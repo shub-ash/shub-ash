@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shub-ash" alt="shub-ash" /></a> </p>
 
-- I'm currently NextJs **Tesseract**
+- I'm currently working on NextJs **Tesseract**
 
 - 💬 Ask me about **react, next, node**
 
